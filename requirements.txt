@@ -1,0 +1,4 @@
+python-dotenv
+pyfade==3.1
+colorama
+discord
