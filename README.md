@@ -1,4 +1,4 @@
-<h1 align="center">OS-Cutter</h1>
+<h1 align="center">Discord-Cleaner</h1>
 
 <p align='center'>
     <b>💀 Discord message deleter, Say Bye to your Message! 💀</b>
